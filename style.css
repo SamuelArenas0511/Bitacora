@@ -211,6 +211,7 @@ header.shadow .logo{
     font-size: 0.9rem;
     line-height: 1.4rem;
     margin: 5px 0 10px;
+    color: var(--color-Texto);
 
     display: -webkit-box;
     -webkit-line-clamp: 3;
@@ -434,6 +435,10 @@ header.shadow .logo{
         font-size: 0.875rem;
         line-height: 1.5rem;
         margin: 10px 0;
+    }
+    .inicio-subtitulo{
+        font-size: 0.8rem;
+        font-weight: 500;
     }
 }
 
