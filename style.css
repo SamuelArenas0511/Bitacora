@@ -303,6 +303,15 @@ header.shadow .logo{
     border-radius: 0.5rem;
 }
 
+.post-img{
+    width: 80%;
+    height: 400px;
+    object-fit: cover;
+    object-position:center ;
+    border-radius: 0.5rem;
+    margin-left: 90px;
+}
+
 /* Post contenido */
 
 .post-contenido{
@@ -441,4 +450,3 @@ header.shadow .logo{
         font-weight: 500;
     }
 }
-
